@@ -1,5 +1,4 @@
 data:
-  env: config-client
   user:
     username: config
     password: 0
