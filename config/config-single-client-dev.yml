@@ -2,4 +2,4 @@ data:
   env: config-client
   user:
     username: config-client-user
-    password: 3
+    password: 4
