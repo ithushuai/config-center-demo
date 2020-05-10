@@ -1,4 +1,3 @@
-data:
-  user:
-    username: config-dev
-    password: 0
+user:
+  username: config-dev
+  password: 0
