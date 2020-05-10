@@ -1,1 +1,6 @@
 
+data:
+  env: config-client
+  user:
+    username: config-prod
+    password: 0
